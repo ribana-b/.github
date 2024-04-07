@@ -1,6 +1,10 @@
-This organitasion serves as a storage for projects I've done related to 42 Málaga.
+# Description
 
-The projects are coded mainly in C/C++.
+Storage for the projects I've done related to 42 Málaga
+
+The projects are written mainly in C.
+
+# Common Core
 
 |Project|Description|Score
 |-|-|-|
