@@ -4,7 +4,7 @@ The projects are coded mainly in C/C++.
 
 |Project|Description|Score
 |-|-|-|
-|libft|Creation of a static library with reimplementing useful functions from libc|125/100
+|libft|Creation of a static library reimplementing useful functions from libc and more|125/100
 |ft_printf|Simple reimplementation of printf|100/100
 |get_next_line|Read the content from a file descriptor line by line|125/100
 |born2beroot|Set up a Debian environment through commands|110/100
