@@ -15,6 +15,6 @@ The projects are written mainly in C.
 |[pipex](https://github.com/ribana-b/pipex/)|Implementation of the functionality of the Unix pipes|100/100
 |[push_swap](https://github.com/ribana-b/push_swap/)|Implementation of an algorithm that sorts a list of numbers using 2 stacks|125/100
 |[so_long](https://github.com/ribana-b/so_long/)|2D game where a player has to gather collectibles to exit|125/100
-|[Philosophers](https://github.com/ribana-b/philosohpers/)|Concurrency problem where philosophers have to eat, sleep and think without dying|100/100
+|[Philosophers](https://github.com/ribana-b/philosophers/)|Concurrency problem where philosophers have to eat, sleep and think without dying|100/100
 
 You can check out my progress in my [Intra profile](https://profile.intra.42.fr/users/ribana-b).
