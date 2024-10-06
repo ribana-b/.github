@@ -17,5 +17,6 @@ The projects are written mainly in C.
 |[so_long](https://github.com/ribana-b/so_long/)|2D game where a player has to gather collectibles to exit|125/100
 |[Philosophers](https://github.com/ribana-b/philosophers/)|Concurrency problem where philosophers have to eat, sleep and think without dying|100/100
 |Minishell|A simple shell, with builtins, the ability to execute commands and use redirections|100/100
+|NetPractice|Solving networking problems to make a network run|100/100
 
 You can check out my progress in my [Intra profile](https://profile.intra.42.fr/users/ribana-b).
