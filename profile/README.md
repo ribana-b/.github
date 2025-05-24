@@ -18,5 +18,11 @@ The projects are written mainly in C.
 |[Philosophers](https://github.com/ribana-b/philosophers/)|Concurrency problem where philosophers have to eat, sleep and think without dying|100/100
 |Minishell|A simple shell, with builtins, the ability to execute commands and use redirections|100/100
 |NetPractice|Solving networking problems to make a network run|100/100
+|[Cub3d](https://github.com/ribana-b/cub3d/)|Simplified version of Wolfenstein 3D, applying raycasting|110/100
+|[CPP00](https://github.com/ribana-b/CPP00/)|Exercices to get use to C++ syntax|100/100
+|[CPP01](https://github.com/ribana-b/CPP01/)|Exercises to learn about allocations, filesystem management, pointers and references in C++|100/100
+|[CPP02](https://github.com/ribana-b/CPP02/)|Exercises to learn about Orthodox Canonical Form and operators in C++|100/100
+|[CPP03](https://github.com/ribana-b/CPP03/)|Exercises to learn about inheritance and overwriting base classes functions in C++|100/100
+|[CPP04](https://github.com/ribana-b/CPP04/)|Exercises to learn about polymorphism, abstract classes and interfaces in C++|100/100
 
 You can check out my progress in my [Intra profile](https://profile.intra.42.fr/users/ribana-b).
